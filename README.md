@@ -2,27 +2,6 @@
 BangaloreOne
 
 
-
-
-
-
-	
-
-
-
-              ABSTRACT
-
-
-
-
-
-
-
-
-
-
-
-                 
      			ABSTRACT
 
 OBJECTIVES:
@@ -34,16 +13,6 @@ OBJECTIVES:
 •	It has an easy and simple signing in process for employees who work for Bangalore One.
 
 •	The best service for domestic people
-
-
-
-
-
-
-
-
-
-
 
 
 
